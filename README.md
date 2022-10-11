@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rezyl
-- 👀 I’m interested in web development
+- 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 You can reach me at pelobello.rezyl@gmail.com
