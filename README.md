@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rezyl
-- 👀 I’m interested in front-end web development
+- 👋 Hi, I’m Rezyl Pelobello from Pasig City, Phillipines
+- 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 You can reach me at pelobello.rezyl@gmail.com
